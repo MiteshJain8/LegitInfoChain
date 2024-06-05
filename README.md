@@ -14,8 +14,8 @@ Users: Institution staff (who generate information), and other members (who veri
 Permissions: Different roles for users, e.g., admin (institution head), staff (information generators), and verifier (any member who checks information).
 
 # System Architecture
-Smart Contracts: For storing and verifying information.
-User Authentication: Ensuring only authorized staff can generate information.
-Frontend Interface: For users to interact with the system.
+Smart Contracts: For storing and verifying information (Solidity smart contract).
+User Authentication: Ensuring only authorized staff can generate information (Truffle or Hardhat for compiling and deploying the contract).
+Frontend Interface: For users to interact with the system (using react).
 
-The project is currently in its infancy, I am a newbie to this ocean of block chain but I am looking forward to develop this project as time and my skills progress
+The project is currently in its infancy, I am a newbie to this ocean of block chain but I am looking forward to develop this project as time and my skills progress.
